@@ -1,1 +1,26 @@
+# Localization in Russian
+# Public Domain. 2011. No warranties.
+# Markina Irina <mis31071987@gmail.com.>, 2015
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: LERNANTA 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-08 15:13+0200\n"
+"PO-Revision-Date: 2011-04-11 8:23-0500\n"
+"Last-Translator: Markina Irina <mis31071987@gmail.com.>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: Russian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 
+#: apps/abuse/views.py:57
+#, fuzzy
+msgid "Thank you for filing an abuse report!"
+msgstr "Спасибо за передачу отчета о нарушении!"
+
+#: apps/activity/feeds.py:70
+#, python-format
+msgid "Activity feed from %s"
+msgstr "Мероприятия от %s"
